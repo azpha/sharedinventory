@@ -1,0 +1,7 @@
+name: SharedInventory
+version: '1.0-SNAPSHOT'
+main: gg.alexav.sharedInventory.SharedInventory
+api-version: '1.21'
+author: 'Alex Frantz'
+description: 'Share an inventory with your friends. Lose it all quicker.'
+website: 'alexav.gg'
