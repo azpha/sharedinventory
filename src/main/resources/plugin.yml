@@ -1,5 +1,5 @@
 name: SharedInventory
-version: '1.0-SNAPSHOT'
+version: '1.0'
 main: gg.alexav.sharedInventory.SharedInventory
 api-version: '1.21'
 author: 'Alex Frantz'
